@@ -43,7 +43,7 @@ export default function Home() {
             Created BY Farid
           </h1>
           <p className="text-sm text-gray-500 mb-6">
-            Automatically remove backgrounds from your images. Simple, fast & free.
+            Automatically remove backgrounds from your images. Simple, fast & free....
           </p>
 
           <button
